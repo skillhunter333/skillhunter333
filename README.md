@@ -8,9 +8,9 @@
 - 👨‍💻 All of my display projects are available at [coming soon]
   </br>
 
-- 📝hosted projects [:](:)
+ 📝hosted projects:
 
-- 📄 MusicMatch       ⚡https://music-match1.netlify.app/  📄https://github.com/skillhunter333/MusicMatch-Frontend 
+ 📄 MusicMatch       ⚡https://music-match1.netlify.app/  📄https://github.com/skillhunter333/MusicMatch-Frontend 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
