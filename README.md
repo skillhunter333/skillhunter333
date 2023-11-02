@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🔭 I’m currently working on **Fullstack web2 and web3 projects. mainly using the MERN-Stack with MongoDB, Express, Nodejs and React to build amazing applications**
+- 🔭 I’m currently working on Fullstack **web2 and web3 projects mainly using the MERN-Stack with MongoDB, Express, Nodejs and React to build amazing applications**
 
 - 🌱 I’m currently learning **as much as i can, but I am especially interested in Web- and App Developement, Cloudcomputing and Blockchain**
 
-- 👨‍💻 All of my display projects are available at [coming soon]
+- 👨‍💻 All of my display projects are available at [coming soon...]
   </br>
 
- 📝hosted projects:
+ hosted projects:
 
  📄 MusicMatch       ⚡https://music-match1.netlify.app/  📄https://github.com/skillhunter333/MusicMatch-Frontend 
 
