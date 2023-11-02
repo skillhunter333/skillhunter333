@@ -6,10 +6,11 @@
 - 🌱 I’m currently learning **as much as i can, but I am especially interested in Web- and App Developement, Cloudcomputing and Blockchain**
 
 - 👨‍💻 All of my display projects are available at [coming soon]
+  </br>
 
 - 📝hosted projects [:](:)
 
-- 📄 MusicMatch       ⚡music-match1.netlify.app     📄 https://github.com/skillhunter333/MusicMatch-Frontend ⚡
+- 📄 MusicMatch       ⚡https://music-match1.netlify.app/  📄https://github.com/skillhunter333/MusicMatch-Frontend 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
