@@ -10,7 +10,10 @@
 
  hosted projects:
 
- 📄 MusicMatch       ⚡https://music-match1.netlify.app/  📄https://github.com/skillhunter333/MusicMatch-Frontend 
+ 📄 MusicMatch       ⚡https://music-match1.netlify.app/  📄https://github.com/skillhunter333/MusicMatch-Frontend 📄https://github.com/vitali733/MusicMatch-BackEnd
+ //Please be aware that the project is hosted for free - meaning there might be a 20s delay for the first backend request
+ <You can use the //username: ea@gmail.com pw: 123meins// to have a look at the project with an existing user profile or simply register and create a new profile>
+ //NOTE project is under developement.. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
