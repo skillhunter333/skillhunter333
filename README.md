@@ -7,10 +7,11 @@
 
 - 👨‍💻 Deployed display projects: </br>
 
- 📄 MusicMatch       ⚡https://music-match1.netlify.app/  📄https://github.com/skillhunter333/MusicMatch-Frontend 📄https://github.com/vitali733/MusicMatch-BackEnd </br>
+ 📄 <font color="red"> MusicMatch   </font>      ⚡https://music-match1.netlify.app/  📄https://github.com/skillhunter333/MusicMatch-Frontend 📄https://github.com/vitali733/MusicMatch-BackEnd </br>
  //Please be aware that the project is hosted for free - meaning there might be a 20s delay for the first backend request  </br>
- <You can use the //username: ea@gmail.com pw: 123meins// to have a look at the project with an existing user profile or simply register and create a new profile>  </br>
+ //You can use the  <font color="red">  username: ea@gmail.com pw: 123meins  </font> to have a look at the project with an existing user profile or simply register and create a new profile  </br>
  //NOTE project is under developement..  </br>
+
 
   </br>
   
